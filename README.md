@@ -47,7 +47,7 @@ GET 127.0.0.1:3002/products?type=단과강의&name=한식&name=멕시코
   <br>Add product into Cart 127.0.0.1:3002/cart/2
 
 - DELETE  
-  <br>Delete product From cart 127.0.0.1:3002/cart/15
+  Delete product From cart 127.0.0.1:3002/cart/15
 
 - GET
   <br>Get Detail product By product Id 127.0.0.1:3002/lecture/11
