@@ -72,6 +72,7 @@ https://user-images.githubusercontent.com/110155085/203941590-2c1eb19d-f3eb-4708
 ### 메인페이지
 
 https://user-images.githubusercontent.com/110155085/203941837-f36ae900-e6a2-40a9-b096-ea287d277cd5.mp4
+
 https://user-images.githubusercontent.com/110155085/203941231-2b7065ff-3ddb-4cd4-ae52-032a1a6a2084.mp4
 
 ### 카테고리
