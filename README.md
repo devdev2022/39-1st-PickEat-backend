@@ -84,4 +84,4 @@ GET 127.0.0.1:3002/products?type=단과강의&name=한식&name=멕시코
 
 ### 장바구니
 
-![](https://user-images.githubusercontent.com/110155085/203941697-9a28a124-d221-4410-a912-5424a050d1ac.mp4)
+https://user-images.githubusercontent.com/110155085/203941697-9a28a124-d221-4410-a912-5424a050d1ac.mp4
