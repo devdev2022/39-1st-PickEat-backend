@@ -27,7 +27,7 @@ BackEnd : 김세호, 김한솔
 
 ## ERD
 
-![]https://user-images.githubusercontent.com/100466989/204090375-6d7a2e97-e9ff-43fa-974a-4f792266f784.png
+![](https://user-images.githubusercontent.com/100466989/204090375-6d7a2e97-e9ff-43fa-974a-4f792266f784.png)
 
 ## API 명세서
 
